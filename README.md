@@ -8,6 +8,8 @@
 
 ## 構成と回路図
 
+![circuit diagram](https://github.com/ikorin24/BadAppleLED/blob/master/img/circuit.png)
+
 マイコンは ATmega328P (Arduino) 16MHz。
 
 [ffmpeg](https://ffmpeg.org/) で事前に動画を二値化無圧縮の独自フォーマットのデータに変換し、SD カードから読みだして再生しています。
